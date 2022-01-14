@@ -1,0 +1,10 @@
+{
+  "car": "audi",
+  "model": "a100",
+  "power": 100,
+  "country": "Germany",
+  "owners": [
+    "Ivanov",
+    "Penrov"
+  ]
+}
